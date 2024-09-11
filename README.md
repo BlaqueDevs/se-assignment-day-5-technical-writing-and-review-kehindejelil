@@ -40,11 +40,22 @@ Using simplifying terms like start  instead of initiate improves comprehension a
 It provides the audience with more clarity by being able to relate to visuals or a real-life occurrence with the concept of discussion. 
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
-Charts are more effective as they can state relationships between multiple data on a single chart.
+Charts are more effective as they state relationships between multiple data on a single chart.
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
-
+Headings and subheadings: Guide the reader through the content. Each subheading indicates a subtopic of discussion.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
+Use capital blocks for letters for heading with bold styles, while subheadings can be styled in bold style. 
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+
+Summary of what the product does right away.
+
+Include clear steps: Guide users through setup and basic use.
+
+Anticipate problems: Offer solutions to common issues.
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+This can be done using the Readme file that summarises product features using simple language.
